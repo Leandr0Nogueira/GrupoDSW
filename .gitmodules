@@ -1,0 +1,3 @@
+[submodule "Lobici"]
+	path = Lobici
+	url = git@github.com:boasgsv/Lobici
